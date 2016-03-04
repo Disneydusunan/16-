@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>美国纽约大都会歌剧院</string>
+		<key>img</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>米兰斯卡拉歌剧院</string>
+		<key>img</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>8</string>
+		<key>name</key>
+		<string>莫斯科大剧院</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>悉尼歌剧院</string>
+		<key>img</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>6</string>
+		<key>name</key>
+		<string>英国皇家歌剧院</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>维也纳国家歌剧院</string>
+		<key>img</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>纽约卡内基音乐厅</string>
+		<key>img</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>3</string>
+		<key>name</key>
+		<string>波士顿交响音乐厅</string>
+	</dict>
+	<dict>
+		<key>img</key>
+		<string>2</string>
+		<key>name</key>
+		<string>阿姆斯特丹音乐厅</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>维也纳音乐厅</string>
+		<key>img</key>
+		<string>1</string>
+	</dict>
+</array>
+</plist>
